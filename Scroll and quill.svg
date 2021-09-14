@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="154px" height="150px" viewBox="0 0 154 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Scroll and quill Copy</title>
+    <defs>
+        <polygon id="path-1" points="0 150 153.970497 150 153.970497 0 0 0"></polygon>
+    </defs>
+    <g id="DNC-and-unsub" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Resubscribe" transform="translate(-563.000000, -252.000000)">
+            <g id="Scroll-and-quill-Copy" transform="translate(563.000000, 252.000000)">
+                <polygon id="Fill-1" fill="#FFFFFF" points="14.9531276 137.040623 99.6875172 137.040623 99.6875172 52.3062332 14.9531276 52.3062332"></polygon>
+                <polygon id="Stroke-2" stroke="#C2C8CC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="14.9531276 137.040623 99.6875172 137.040623 99.6875172 52.3062332 14.9531276 52.3062332"></polygon>
+                <g id="Group-38">
+                    <g id="Group-6" transform="translate(26.191583, 40.836809)">
+                        <path d="M4.9109219,0 L86.7596202,0 L86.7596202,81.4650678 L17.5090735,81.4650678 C14.1680097,81.4650678 11.4588178,78.768574 11.4588178,75.44317 L11.4588178,5.70255474 C11.4588178,2.55311522 8.89367956,0 5.72940888,0 C2.5651382,0 0,2.55311522 0,5.70255474 L0,11.4051095 L11.4588178,11.4051095" id="Fill-3" fill="#FFFFFF"></path>
+                        <path d="M4.9109219,0 L86.7596202,0 L86.7596202,81.4650678 L17.5090735,81.4650678 C14.1680097,81.4650678 11.4588178,78.768574 11.4588178,75.44317 L11.4588178,5.70255474 C11.4588178,2.55311522 8.89367956,0 5.72940888,0 C2.5651382,0 0,2.55311522 0,5.70255474 L0,11.4051095 L11.4588178,11.4051095" id="Stroke-5" stroke="#C2C8CC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                    <line x1="52.3831669" y1="57.1298227" x2="75.3008024" y2="57.1298227" id="Stroke-7" stroke="#C2C8CC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="52.3831669" y1="66.9056309" x2="67.1159326" y2="66.9056309" id="Stroke-9" stroke="#C2C8CC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="52.3831669" y1="76.681439" x2="76.9377764" y2="76.681439" id="Stroke-11" stroke="#C2C8CC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="52.3831669" y1="86.4572471" x2="101.492386" y2="86.4572471" id="Stroke-13" stroke="#C2C8CC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="52.3831669" y1="96.2330553" x2="101.492386" y2="96.2330553" id="Stroke-15" stroke="#C2C8CC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <path d="M149.212469,19.1881191 L112.251234,55.9744851 L94.2723485,59.3226994 L97.63633,41.4280826 L134.595928,4.64171663 C138.632706,0.623859489 145.175691,0.623859489 149.212469,4.64171663 C153.24761,8.65794447 153.24761,15.170262 149.212469,19.1881191" id="Fill-17" fill="#FFFFFF"></path>
+                    <path d="M149.212469,19.1881191 L112.251234,55.9744851 L94.2723485,59.3226994 L97.63633,41.4280826 L134.595928,4.64171663 C138.632706,0.623859489 145.175691,0.623859489 149.212469,4.64171663 C153.24761,8.65794447 153.24761,15.170262 149.212469,19.1881191 Z" id="Stroke-19" stroke="#C2C8CC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <line x1="76.4774593" y1="77.0346715" x2="130.864282" y2="22.9043926" id="Stroke-21" stroke="#C2C8CC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <polyline id="Stroke-23" stroke="#C2C8CC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="126.046995 42.4661105 111.31423 42.4661105 111.31423 27.8023983"></polyline>
+                    <polyline id="Stroke-25" stroke="#C2C8CC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="135.868839 32.6903024 121.136073 32.6903024 121.136073 18.0265902"></polyline>
+                    <polyline id="Stroke-27" stroke="#C2C8CC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="145.690683 22.9144943 130.957917 22.9144943 130.957917 8.25078206"></polyline>
+                    <path d="M130.957917,8.66446168 L130.957917,22.9143313 L145.274892,22.9143313 L149.306758,19.1978949 C153.343536,15.1816671 153.343536,8.66772028 149.306758,4.65149244 C145.271618,0.633635297 138.726996,0.633635297 134.691855,4.65149244 L130.957917,8.66446168 Z" id="Stroke-29" stroke="#C2C8CC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <g id="Group-34" transform="translate(43.211202, 110.896767)">
+                        <path d="M5.8980172,11.4051095 L69.039377,11.4051095 C72.1381687,11.4051095 74.6509238,8.90413191 74.6509238,5.81986444 L74.6509238,0 L5.8980172,0 L5.8980172,5.8899244 C5.8980172,8.93508863 3.25757819,11.4051095 0,11.4051095 L0.987095301,11.4051095" id="Fill-31" fill="#FFFFFF"></path>
+                        <path d="M5.8980172,11.4051095 L69.039377,11.4051095 C72.1381687,11.4051095 74.6509238,8.90413191 74.6509238,5.81986444 L74.6509238,0 L5.8980172,0 L5.8980172,5.8899244 C5.8980172,8.93508863 3.25757819,11.4051095 0,11.4051095 L0.987095301,11.4051095" id="Stroke-33" stroke="#C2C8CC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-36"></g>
+                    <polygon id="Fill-35" fill="#FFFFFF" mask="url(#mask-2)" points="1.63697397 148.370699 116.225152 148.370699 116.225152 136.965589 1.63697397 136.965589"></polygon>
+                    <polygon id="Stroke-37" stroke="#C2C8CC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="1.63697397 148.370699 116.225152 148.370699 116.225152 136.965589 1.63697397 136.965589"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
